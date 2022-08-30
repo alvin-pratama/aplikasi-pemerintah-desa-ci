@@ -159,7 +159,7 @@
 					<th>RT/RW</th>
 					<th>Nik Pelapor</th>
 					<th>Nama Pelapor</th>
-					<th>Sebab</th>
+					<th>Keperluan</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -205,6 +205,11 @@
 
 	<div style="text-align: right; padding-right: 80px;">
 		<div class="text">Sidoarjo, <?php echo $tgl." ".$bln." ".$thn;?></div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div class="text">(Kecamatan Tanggulangin)</div>
 	</right>
 
 	<script>

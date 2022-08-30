@@ -4,7 +4,7 @@
 			<a href="<?php echo base_url('admin'); ?>" class="brand-link">
 				<img src="<?php echo base_url('dist/img/logo.png'); ?>" alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
 				<marquee direction='right'>
-					<span class="brand-text"><b>PEMDES KALITENGAH</b></span>
+					<span class="brand-text"><b>PEMDES</b></span>
 				</marquee>
 			</a>
 
@@ -17,7 +17,7 @@
 					</div>
 					<div class="info">
 						<a href="<?php echo base_url('admin'); ?>" class="d-block">
-							<b>PEMDES KALITENGAH</b>
+							<b>PEMDES</b>
 						</a>
 						<span class="badge badge-success">
 							<b>Admin</b>

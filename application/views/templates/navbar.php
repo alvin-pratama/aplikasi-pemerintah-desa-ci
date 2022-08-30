@@ -19,7 +19,7 @@
 				<li class="nav-item d-none d-sm-inline-block">
 					<a href="index.php" class="nav-link">
 						<font color="white">
-							<b>DATA KEPENDUDUKAN DESA KALITENGAH</b>
+							<b>DATA LAPORAN KEPERNDUDUKAN KECAMATAN TANGGULANGIN</b>
 						</font>
 					</a>
 				</li>
